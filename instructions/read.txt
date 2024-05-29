@@ -1,0 +1,2 @@
+to run the project, first run a commandon the terminal as "npm install"
+after the installing the libarires  run a command "npm start"
